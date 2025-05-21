@@ -508,6 +508,8 @@ We will continue to update this repository and hope this repository can benefit 
 | 9     	| 2022 	| HUSTbearing  	| bearing   	| artifical                    	| Multiple working conditions 	|     /               	|         [[data link](https://github.com/CHAOZHAO-1/HUSTbearing-dataset)]               	|       
 | 10    	| 2022 	| HUSTgearbox  	| gearbox    	| artifical                    	| Multiple working conditions 	|    /                	|         [[data link](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset)]              	|
 
+
+
 # Code for Benchmark
 <a name="section-id10"></a>
 
@@ -531,7 +533,7 @@ We will continue to update this repository and hope this repository can benefit 
 |[**Imbalanced domain generalization via Semantic-Discriminative augmentation for intelligent fault diagnosis**](https://www.sciencedirect.com/science/article/pii/S1474034623003907) <br> | AEI | 2024 | [Github](https://github.com/CHAOZHAO-1/SDAGN) | IDGFD |
 |[**Mutual-assistance semisupervised domain generalization network for intelligent fault diagnosis under unseen working conditions**](https://www.sciencedirect.com/science/article/pii/S0888327022011426) <br> | MSSP | 2023 | [Github](https://github.com/CHAOZHAO-1/MSDGN) | SemiDGFD |
 |[**Adaptive open set domain generalization network: Learning to diagnose unknown faults under unknown working conditions**](https://www.sciencedirect.com/science/article/pii/S0951832022003064) <br> | RESS | 2022 | [Github](https://github.com/CHAOZHAO-1/AOSDGN) | OSDGFD |
-
+|[**Privacy-Preserving Adaptive Remaining Useful Life Prediction via Source-Free Domain Adaption**](https://ieeexplore.ieee.org/abstract/document/10239252) <br> |TIM|2023|[github](https://github.com/TL-UESTC/Privacy-Preserving-Adaptive-Remaining-Useful-Life-Prediction-via-Source-Free-Domain-Adaption)  |UDA|
 
 
 # Talk
